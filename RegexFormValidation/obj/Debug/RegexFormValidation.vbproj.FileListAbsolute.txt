@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\RegexFormValidation\bin\Debug\RegexFormValidation.exe.config
+C:\Users\Admin\source\repos\RegexFormValidation\bin\Debug\RegexFormValidation.exe
+C:\Users\Admin\source\repos\RegexFormValidation\bin\Debug\RegexFormValidation.pdb
+C:\Users\Admin\source\repos\RegexFormValidation\bin\Debug\RegexFormValidation.xml
+C:\Users\Admin\source\repos\RegexFormValidation\obj\Debug\RegexFormValidation.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\RegexFormValidation\obj\Debug\RegexFormValidation.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\RegexFormValidation\obj\Debug\RegexFormValidation.Form1.resources
+C:\Users\Admin\source\repos\RegexFormValidation\obj\Debug\RegexFormValidation.Resources.resources
+C:\Users\Admin\source\repos\RegexFormValidation\obj\Debug\RegexFormValidation.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\RegexFormValidation\obj\Debug\RegexFormValidation.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RegexFormValidation\obj\Debug\RegexFormValidation.exe
+C:\Users\Admin\source\repos\RegexFormValidation\obj\Debug\RegexFormValidation.xml
+C:\Users\Admin\source\repos\RegexFormValidation\obj\Debug\RegexFormValidation.pdb

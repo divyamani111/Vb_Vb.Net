@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Inserting data\obj\Debug\Inserting data.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Inserting data\obj\Debug\Inserting data.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Inserting data\obj\Debug\Inserting_data.Form1.resources
+C:\Users\Admin\source\repos\Inserting data\obj\Debug\Inserting_data.Resources.resources
+C:\Users\Admin\source\repos\Inserting data\obj\Debug\Inserting data.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Inserting data\obj\Debug\Inserting data.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Inserting data\bin\Debug\Inserting data.exe.config
+C:\Users\Admin\source\repos\Inserting data\bin\Debug\Inserting data.exe
+C:\Users\Admin\source\repos\Inserting data\bin\Debug\Inserting data.pdb
+C:\Users\Admin\source\repos\Inserting data\bin\Debug\Inserting data.xml
+C:\Users\Admin\source\repos\Inserting data\obj\Debug\Inserting data.exe
+C:\Users\Admin\source\repos\Inserting data\obj\Debug\Inserting data.xml
+C:\Users\Admin\source\repos\Inserting data\obj\Debug\Inserting data.pdb
