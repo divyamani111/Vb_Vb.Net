@@ -10,3 +10,15 @@ C:\Users\Admin\source\repos\regularExpression\bin\Debug\regularExpression.xml
 C:\Users\Admin\source\repos\regularExpression\obj\Debug\regularExpression.exe
 C:\Users\Admin\source\repos\regularExpression\obj\Debug\regularExpression.xml
 C:\Users\Admin\source\repos\regularExpression\obj\Debug\regularExpression.pdb
+C:\Users\Admin\source\repos\Vb_Vb.net\regularExpression\bin\Debug\regularExpression.exe.config
+C:\Users\Admin\source\repos\Vb_Vb.net\regularExpression\bin\Debug\regularExpression.exe
+C:\Users\Admin\source\repos\Vb_Vb.net\regularExpression\bin\Debug\regularExpression.pdb
+C:\Users\Admin\source\repos\Vb_Vb.net\regularExpression\bin\Debug\regularExpression.xml
+C:\Users\Admin\source\repos\Vb_Vb.net\regularExpression\obj\Debug\regularExpression.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Vb_Vb.net\regularExpression\obj\Debug\regularExpression.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Vb_Vb.net\regularExpression\obj\Debug\regularExpression.Resources.resources
+C:\Users\Admin\source\repos\Vb_Vb.net\regularExpression\obj\Debug\regularExpression.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Vb_Vb.net\regularExpression\obj\Debug\regularExpression.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Vb_Vb.net\regularExpression\obj\Debug\regularExpression.exe
+C:\Users\Admin\source\repos\Vb_Vb.net\regularExpression\obj\Debug\regularExpression.xml
+C:\Users\Admin\source\repos\Vb_Vb.net\regularExpression\obj\Debug\regularExpression.pdb

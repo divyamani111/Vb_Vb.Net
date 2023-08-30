@@ -13,6 +13,16 @@ Module Module1
         Dim str As String = "A Thousand Splendid Suns"
         Console.WriteLine("Matching words that start with 's' : ")
         showMatch(str, "\bS\S*")
+        Console.WriteLine("Matching words that start with 's' and end with 'd': ")
+        showMatch(str, "\bS\S*d\b")
+        'replace extra whitespace
+        Dim input As String = "Hello   World   "
+        Dim pattern As String = "\s+"
+        Dim replacement As String = " "
+        Dim rgx As Regex = New Regex(pattern)
+        Dim result As String = rgx.Replace(input, replacement)
+        Console.WriteLine("Original String: {0}", input)
+        Console.WriteLine("Replacement String: {0}", result)
         Console.ReadKey()
     End Sub
 
